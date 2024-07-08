@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1702931050 source:c:\users\isc\documents\c++\src\threadmatrix\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<string>
+
+1703272532 source:c:\users\isc\pictures\previous courses\parallel computing\parallel computing project\threadmatrix\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+	<string>
+
